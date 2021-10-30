@@ -2,6 +2,8 @@
 
 ![](.github/images/img1.png)
 
+Build with React and TailwindCSS
+
 ## Getting started
 
 Build with ``npm run build``,
